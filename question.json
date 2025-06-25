@@ -1,0 +1,523 @@
+[
+  {
+      "question": "Quel est le diamètre du rotor principal?",
+      "options": [
+        "Réponse A<br>7.50 m",
+        "Réponse B<br>6,20 m",
+        "Réponse C<br>7,20 m",
+        "Réponse D<br>8,00 m"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "La hauteur de l'hélicoptèren est...",
+      "options": [
+        "Réponse A<br>2,37 m",
+        "Réponse B<br>3,00 m",
+        "Réponse C<br>2,20 m",
+        "Réponse D<br>1,80 m"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Le rotor principal est...",
+      "options": [
+        "Réponse A<br>semi-articulé, souple en battement.",
+        "Réponse B<br>articulé, souple en traînée.",
+        "Réponse C<br>rigide.",
+        "Réponse D<br>en balancier."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "De combien de pales est constitué le rotor de l'hélicoptère?",
+      "options": [
+        "Réponse A<br>2.",
+        "Réponse B<br>4.",
+        "Réponse C<br>Il s'agit d'un hélicoptère à pales variables. Le pilote peut décider le nombre de pales à emporter en vol en fonction de la nature du vol.",
+        "Réponse D<br>3."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "La corde d'une pale du rotor principal est de...",
+      "options": [
+        "Réponse A<br>180 mm",
+        "Réponse B<br>175 mm",
+        "Réponse C<br>180 m",
+        "Réponse D<br>175 m"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Le rotor arrière est (1)____ et détient un total de (2)___ pales.",
+      "options": [
+        "Réponse A<br>(1)placé du côté droit (2)8 pales",
+        "Réponse B<br>(1)caréné (2)10 pales",
+        "Réponse C<br>(1)placé du côté droit (2)7 pales",
+        "Réponse D<br>(1)caréné (2)7 pales"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Le diamètre du rotor arrière est de...",
+      "options": [
+        "Réponse A<br>600 mm",
+        "Réponse B<br>600 cm",
+        "Réponse C<br>600 m",
+        "Réponse D<br>7,20 m"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Le régime rotor nominal du rotor arrière est de...",
+      "options": [
+        "Réponse A<br>2148 tr/min",
+        "Réponse B<br>2500 tr/min",
+        "Réponse C<br>5148 tr/min",
+        "Réponse D<br>5138 tr/min"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "La corde d'une pale du rotor arrière est de...",
+      "options": [
+        "Réponse A<br>50 mm",
+        "Réponse B<br>42 mm",
+        "Réponse C<br>50 cm",
+        "Réponse D<br>42 cm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Le Cabri G2 est un moteur à pistons à quatre cylindres à plat en transmission directe:",
+      "options": [
+        "Réponse A<br>Textron Lycoming 0360-J2A.",
+        "Réponse B<br>Rotax 912.",
+        "Réponse C<br>Textron Lycoming O-360-A3A.",
+        "Réponse D<br>2.0 TSI spécial aéronautique."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La cylindrée du moteur est:",
+      "options": [
+        "Réponse A<br>5,9CL",
+        "Réponse B<br>2,0L",
+        "Réponse C<br>3L",
+        "Réponse D<br>5,9L."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "La puissance maximale continue est de:",
+      "options": [
+        "Réponse A<br>2585 à 2700 tr/min",
+        "Réponse B<br>3200 à 3500 tr/min",
+        "Réponse C<br>7000 à 7500 tr/min",
+        "Réponse D<br>1399 à 1450 tr/min."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le régime nominal du moteur?",
+      "options": [
+        "Réponse A<br>3100 tr/min",
+        "Réponse B<br>2550 tr/min",
+        "Réponse C<br>2650 tr/min.",
+        "Réponse D<br>2750 tr/min."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "La capacité maximale de carburant est de...",
+      "options": [
+        "Réponse A<br>100 L (26 USG).",
+        "Réponse B<br>170 L (45 USG).",
+        "Réponse C<br>95 L (25 USG).",
+        "Réponse D<br>200 L (53)."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans le réservoir, une partie du carburant n'est pas utilisable. Cette quantité est de:",
+      "options": [
+        "Réponse A<br>2.5 L",
+        "Réponse B<br>5 L",
+        "Réponse C<br>2 L",
+        "Réponse D<br>1.5L"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Les carburants approuvés sont:",
+      "options": [
+        "Réponse A<br>AVGAS 100LL et AVGAS UL 91.",
+        "Réponse B<br>AVGAS 100LL seulement.",
+        "Réponse C<br>SP95 et SP98 avec additifs aéronautique.",
+        "Réponse D<br>Gasoil B7."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La magnéto du Cabri G2 est (1)____ et son système d'allumage électronique est (2)____.",
+      "options": [
+        "Réponse A<br>(1)DBF (2)LSI Plasmo 4K",
+        "Réponse B<br>(1)Bendix (2)LSE Plasma II HG",
+        "Réponse C<br>(1)Bendix (2)LSE Plasma VI HJ",
+        "Réponse D<br>(1)DBF (2)LSI Plasmo 8K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La masse maximale pour le Cabri G2 est de:",
+      "options": [
+        "Réponse A<br>900 kg.",
+        "Réponse B<br>750 kg.",
+        "Réponse C<br>600 kg.",
+        "Réponse D<br>700 kg."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "La masse à vide typique est de:",
+      "options": [
+        "Réponse A<br>150 kg.",
+        "Réponse B<br>(1)300 kg.",
+        "Réponse C<br>(1)425 kg.",
+        "Réponse D<br>(1)350 kg."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "La vitesse d'endurance maximale est de (1)____ et la vitesse de distance franchissable maximale est de (2)____.",
+      "options": [
+        "Réponse A<br>(1)50 kt (2)80 kt",
+        "Réponse B<br>(1)90 kt (2)100 kt",
+        "Réponse C<br>(1)80 kt (2)100 kt",
+        "Réponse D<br>(1)65 kt (2)95 kt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La VNE du Cabri G2 est de:",
+      "options": [
+        "Réponse A<br>130 kt",
+        "Réponse B<br>140 kt",
+        "Réponse C<br>120 kt",
+        "Réponse D<br>110 kt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Afin de planifier les vols, une consommation moyenne a été établie permettant de déterminer le carburant à embarquer. Cette valeur est de ...",
+      "options": [
+        "Réponse A<br>38 kg/h",
+        "Réponse B<br>35 kg/h",
+        "Réponse C<br>35 litres/h",
+        "Réponse D<br>38 litres/h"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "La distance franchissable est de ...",
+      "options": [
+        "Réponse A<br>800 NM",
+        "Réponse B<br>500 NM.",
+        "Réponse C<br>800 km.",
+        "Réponse D<br>500 km."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Le Cabri G2 est un hélicoptère ayant pour endurance maximale:",
+      "options": [
+        "Réponse A<br>3 heures, 80 kt.",
+        "Réponse B<br>6 heures, 55 kt.",
+        "Réponse C<br>5 heures, 55 kt.",
+        "Réponse D<br>5 heures, 80 kt."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Le Cabri G2 est un hélicoptère à double-commandes. La manuel de vol stipule que la commande du (1)_____ est démontable et peut être stockée dans le (2)_____.",
+      "options": [
+        "Réponse A<br>(1)copilote (2)coffre avant",
+        "Réponse B<br>(1)copilote (2)coffre arrière",
+        "Réponse C<br>(1)pilote (2)sous le siège copilote",
+        "Réponse D<br>(1)pilote (2)hangar où l'hélicoptère est normalement rangé"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "L'instrumentation du Cabri G2 est composée, notamment, de...",
+      "options": [
+        "Réponse A<br>instruments cathodiques.",
+        "Réponse B<br>un GARMIN G600 et un GTN 555.",
+        "Réponse C<br>un GARMIN G500 et un ECAM",
+        "Réponse D<br>un GARMIN G500 et un GTN 635."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "L'altitude maximale à laquelle un Cabri G2 peut être utilisé est de:",
+      "options": [
+        "Réponse A<br>10 000 ft à cause de l'oxygène.",
+        "Réponse B<br>13 000 ft.",
+        "Réponse C<br>6000 ft.",
+        "Réponse D<br>18 000 ft car, au-delà, les vols VFR sont interdits."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La température maximale d'utilisation est de (1)____ et la température minimale est de (2)____.",
+      "options": [
+        "Réponse A<br>(1)ISA +30°, soit 45° (2)-20°",
+        "Réponse B<br>(1)ISA +20, soit 35° (2)-40°",
+        "Réponse C<br>(1)ISA +50, soit 65° (2)-10°",
+        "Réponse D<br>(1)ISA (2)-56,5°"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La VNE sans puissance est de (1)____ et sa plage de précaution est de (2)____.",
+      "options": [
+        "Réponse A<br>(1)130 kt(2)50 kt",
+        "Réponse B<br>(1)110 kt(2)0 à 45 kt",
+        "Réponse C<br>(1)120 kt (2)30 kt",
+        "Réponse D<br>(1)130 kt (2)0 à 45 kt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Concernant les limitations de régime rotor<br> En puissance, le maximum est à (1)____, l'arc vert à (2)____ et le minimum à (3)____.",
+      "options": [
+        "Réponse A<br>(1)535 (2)515 à 535 tr/min (3)505 tr/min",
+        "Réponse B<br>(1)600 tr/min (2)560 à 600 tr/min (3)300 tr/min",
+        "Réponse C<br>(1)550 tr/min (2)520 à 550 tr/min (3)500 tr/min",
+        "Réponse D<br>(1)540 tr/min (2)515 à 540 tr/min (3)515 tr/min"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Concernant les limitations de régime rotor<br> SANS puissance, le maximum est à (1)_____ et le minimum à (2)____.",
+      "options": [
+        "Réponse A<br>(1)610 tr/min (2)450 tr/min",
+        "Réponse B<br>(1)540 tr/min(2)450 tr/min",
+        "Réponse C<br>(1)600 tr/min (2)300 tr/min",
+        "Réponse D<br>(1)945 tr/min (2)715 tr/min"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En accord avec les limitations, le freinn rotor peut être utilisé à un maximum de:",
+      "options": [
+        "Réponse A<br>100 tr/min",
+        "Réponse B<br>150 tr/min",
+        "Réponse C<br>125 tr/min",
+        "Réponse D<br>115 tr/min"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "L'alarme sonore de haut régime retentira à compter de (1)_____ et l'alarme sonore de bas régime à compter de (2)____.",
+      "options": [
+        "Réponse A<br>(1)615 tr/min (2)505 tr/min",
+        "Réponse B<br>(1)694 tr/min(2)450 tr/min",
+        "Réponse C<br>(1)594 tr/min (2)466 tr/min",
+        "Réponse D<br>(1)550 tr/min (2)450 tr/min"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "La température de cullasse maximum (CHT) est de:",
+      "options": [
+        "Réponse A<br>260°C.",
+        "Réponse B<br>310°C.",
+        "Réponse C<br>180°C.",
+        "Réponse D<br>450°C."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Avant l'extinction du moteur, la température maximum recommandée est de:",
+      "options": [
+        "Réponse A<br>200°C.",
+        "Réponse B<br>180°C.",
+        "Réponse C<br>150°C.",
+        "Réponse D<br>120°C."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La température d'huile maximum est de:",
+      "options": [
+        "Réponse A<br>130°C.",
+        "Réponse B<br>128°C.",
+        "Réponse C<br>120°C.",
+        "Réponse D<br>118°C."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Lors du démarrage du moteur, l'ensemble des pièces qui se trouvent à l'intérieur de celui-ci se retrouvent en frottement. L'huile moteur est principalement utilisée pour que les frottements ne soient pas destructeurs pour les pièces. L'huile a une viscosité assez importante est, par conséquent, nécessite une certaine température. Cette température pour le Cabri G2 est recommandée par le constructeur à ____ avant l'application de la pleine puissance.",
+      "options": [
+        "Réponse A<br>30°C",
+        "Réponse B<br>ISA",
+        "Réponse C<br>60°C",
+        "Réponse D<br>50°C"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "La valeur de pression d'huile maximale est de (1)____ . En vol, cette valeur est maximale à (2)____",
+      "options": [
+        "Réponse A<br>(1)7.9 bar (2)6.6 bar",
+        "Réponse B<br>(1)8.9 bar (2)7.6 bar",
+        "Réponse C<br>(1)10 bar (2)8 bar",
+        "Réponse D<br>(1)7.7 bar (2)6.6 bar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pour le décollage, la pression d'huile doit au moins être à...",
+      "options": [
+        "Réponse A<br>4.0 bar",
+        "Réponse B<br>3.8 bar",
+        "Réponse C<br>2.5 bar",
+        "Réponse D<br>5.7 bar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Concernant le carburant, la pression est à son maximum à (1)____ et au minimum à (2)____.",
+      "options": [
+        "Réponse A<br>(1)0.55 bar (2)0.02 bar",
+        "Réponse B<br>(1)0.66 bar (2)0.03 bar",
+        "Réponse C<br>(1)1 bar (2)0.5 bar",
+        "Réponse D<br>(1)1.5 bar (2)1 bar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En autorotation, le taux de descente minimal est de:",
+      "options": [
+        "Réponse A<br>300 m/min à une Vi de 120 km/h.",
+        "Réponse B<br>300 m/min à une Vi de 100 km/h.",
+        "Réponse C<br>1770 ft/min à une Vi de 49 kt.",
+        "Réponse D<br>1500 ft/min à une Vi de 50 kt."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Lorsque nous nous trouvons à 100% de puissance moteur, ce dernier est à:",
+      "options": [
+        "Réponse A<br>135 shp.",
+        "Réponse B<br>180 shp.",
+        "Réponse C<br>150 shp.",
+        "Réponse D<br>145 shp."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Lors de la procédure de démarrage, il faut s'assurer que le voyant 'ALT' soit éteint au-dessus de...",
+      "options": [
+        "Réponse A<br>2000 tr/min",
+        "Réponse B<br>1500 tr/min.",
+        "Réponse C<br>1800 tr/min.",
+        "Réponse D<br>3000 tr/min."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Le stationnaire dit 'standard' du Cabri G2 est de:",
+      "options": [
+        "Réponse A<br>2 ft.",
+        "Réponse B<br>7 ft.",
+        "Réponse C<br>5 ft.",
+        "Réponse D<br>8 ft."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "L'approche recommandée est de:",
+      "options": [
+        "Réponse A<br>49 kt et -400 ft/min.",
+        "Réponse B<br>60 kt et -600 ft/min.",
+        "Réponse C<br>50 kt et -500 ft/min.",
+        "Réponse D<br>40 kt et -700 ft/min."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Lors d'un panne moteur, le Cabri G2 a tendance à avoir le nez qui part à...",
+      "options": [
+        "Réponse A<br>droite.",
+        "Réponse B<br>gauche.",
+        "Réponse C<br>ne bouge pas grâce au système auto-rudder.",
+        "Réponse D<br>tantôt à gauche, tantôt à droite."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Le feu moteur est une panne qui demande la réaction suivante:",
+      "options": [
+        "Réponse A<br>Aterrir dès que possible, il s'agit d'une panne de type 'ambre'.",
+        "Réponse B<br>Attraper l'extincteur qui se trouve derrière le pilote puis combattre le feu.",
+        "Réponse C<br>Aterrir immédiatement, il s'agit d'une panne de type 'rouge'.",
+        "Réponse D<br>Déclarer un 'Mayday' puis attendre des vecteurs de l'ATC."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Un code couleur a été établi pour les pannes. La panne la plus 'grave' est:",
+      "options": [
+        "Réponse A<br>Une panne reste assez subjective. Chaque pilote peut avoir une perception différente de la gravité de celle-ci et, par conséquent, peut adapter le code couleur de la panne.",
+        "Réponse B<br>'Continuer le vol', panne dite 'verte'.",
+        "Réponse C<br>'Atterrir dès que possible', panne dite 'ambre'.",
+        "Réponse D<br>'Atterrir immédiatement', panne dite rouge."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Une panne au MLI s'affiche:",
+      "options": [
+        "Réponse A<br>Avec une croix qui prend tout l'écran.",
+        "Réponse B<br>Avec un point d'exclamation rouge, en haut à droite du MLI.",
+        "Réponse C<br>La panne est détectée par l'indication 'XXX'.",
+        "Réponse D<br>Une panne MLI ne peut pas arriver puisque le Cabri G2 a un FLI pour contrôler sa turbine."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Lorsque le CPU chauffe il affiche un voyant s'apparentant à un thermomètre. Celui-ci s'éteint après un délai de:",
+      "options": [
+        "Réponse A<br>45 secondes.",
+        "Réponse B<br>30 secondes.",
+        "Réponse C<br>Le voyant ne s'éteint pas. Il doit obligatoirement être enlevé par le pilote.",
+        "Réponse D<br>Tant que la température n'est pas dans les normes, le voyant restera afficher."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Le carter d'huile a une capacité de:",
+      "options": [
+        "Réponse A<br>5 L",
+        "Réponse B<br>5.3 L",
+        "Réponse C<br>4.9 L",
+        "Réponse D<br>5.7L"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Concernant le niveau d'huile de la boîte principale et arrière, le niveau d'huile minimal correspond à un témoin:",
+      "options": [
+        "Réponse A<br>rempli au 2/3 pour la BTA, rempli à moitié pour la BTP.",
+        "Réponse B<br>rempli au 1/3 pour la BTA, rempli à 3/4 pour la BTP.",
+        "Réponse C<br>Les deux doivent être à 2/3.",
+        "Réponse D<br>Les deux doivent être remplis au maximum."
+      ],
+      "answer": 0
+    }
+  
+]
