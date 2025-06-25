@@ -34,7 +34,7 @@
       "options": [
         "Réponse A<br>2.",
         "Réponse B<br>4.",
-        "Réponse C<br>Il s'agit d'un hélicoptère à pales variables. Le pilote peut décider le nombre de pales à emporter en vol en fonction de la nature du vol.",
+        "Réponse C<br>Il s'agit d'un hélicoptère à pales variables. Le pilote peut décider le nombre de pales à emporter en vol en fonction de la nature de celui-ci.",
         "Réponse D<br>3."
       ],
       "answer": 3
@@ -518,6 +518,36 @@
         "Réponse D<br>Les deux doivent être remplis au maximum."
       ],
       "answer": 0
+    },
+    {
+      "question": "A partir de quelle quantité de carburant s'allume le voyant de 'niveau bas'?",
+      "options": [
+        "Réponse A<br>12 kg.",
+        "Réponse B<br>12 lb.",
+        "Réponse C<br>12 L.",
+        "Réponse D<br>5 minutes d'autonomie."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qu'indique le code couleur blanc hachuré en rouge sur l'anénomètre?",
+      "options": [
+        "Réponse A<br>VNE en autorotation.",
+        "Réponse B<br>VNE en fonctionnement normal.",
+        "Réponse C<br>Vitesse maximale du frein rotor.",
+        "Réponse D<br>Vitesse d'attente."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le profil de décollage en sécurité à 10 ft?",
+      "options": [
+        "Réponse A<br>50 kt.",
+        "Réponse B<br>60 kt.",
+        "Réponse C<br>45 kt.",
+        "Réponse D<br>30 kt."
+      ],
+      "answer": 2
     }
   
 ]
